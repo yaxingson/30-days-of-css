@@ -14,20 +14,20 @@
 | 11  | [Lifecycle Functions]() |
 | 12  | [State Management]() |
 | 13  | [Animations and Transitions]() |
-| 14  | [Review and Practice]() |
+| 14  | [Project: Todo List]() |
 | 15  | [Module Context]() |
 | 16  | [Slot]() |
 | 17  | [Dynamic Components]() |
 | 18  | [Introduction to SvelteKit]() |
 | 19  | [Routing and Pages]() |
 | 20  | [API and Data Loading]() |
-| 21  | [Review and Practice]() |
-| 22  | 
-| 23  |
-| 24  |
-| 25  |
-| 26  |
-| 27  |
-| 28  |
-| 29  |
-| 30  |
+| 21  | [Project: Blog]() |
+| 22  | [Project: Planning]() |
+| 23  | [Project: Development]() |
+| 24  | [TypeScript Support]() |
+| 25  | [Internationalization and Localization]() |
+| 26  | [Svelte Ecosystem]() |
+| 27  | [Performance Optimization]() |
+| 28  | [Testing and Debugging]() |
+| 29  | [Deployment]() |
+| 30  | [Summary and Sharing]() |

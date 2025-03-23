@@ -1,0 +1,6 @@
+{
+  "name":"day-19",
+  "dependencies":{
+    "svelte-spa-router":"^4.0.1"
+  }
+}
