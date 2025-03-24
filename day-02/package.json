@@ -1,6 +1,7 @@
 {
   "name": "day-02",
   "type":"module",
+  "packageManager":"pnpm@9.2.0",
   "scripts": {
     "play": "vite"
   },
