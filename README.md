@@ -1,3 +1,6 @@
+<img src="./banner.jpg" width="100%" />
+
+<br />
 
 |   # Day    |   Topic  |
 | -----      |   -----    |
