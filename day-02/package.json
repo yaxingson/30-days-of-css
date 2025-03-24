@@ -1,1 +1,6 @@
-{"name":"day-02"}
+{
+  "name":"day-02",
+  "scripts": {
+    "play":"vite -c ../vite.config.ts"
+  }
+}

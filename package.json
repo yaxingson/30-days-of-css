@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "play": ""
   },
   "keywords": [],
   "author": "yaxingson <3228891558@qq.com>",
@@ -13,6 +13,10 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
     "@types/node": "^22.13.11",
+    "typescript": "^5.8.2",
     "vite": "^6.2.2"
+  },
+  "dependencies": {
+    "svelte": "^5.25.3"
   }
 }
