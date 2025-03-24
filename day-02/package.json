@@ -1,6 +1,15 @@
 {
-  "name":"day-02",
+  "name": "day-02",
+  "type":"module",
   "scripts": {
-    "play":"vite -c ../vite.config.ts"
+    "play": "vite"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.2"
+  },
+  "dependencies": {
+    "svelte": "^5.25.3"
   }
 }
